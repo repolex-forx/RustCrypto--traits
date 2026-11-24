@@ -1,0 +1,11 @@
+{
+  "org": "RustCrypto",
+  "repo": "traits",
+  "versions": [
+    {
+      "commit": "82279a5a9ff2af5f10194b9147fe60050cda1851",
+      "tag": "universal-hash-v0.6.1",
+      "parsed_at": "2026-11-24T11:10:54.256588+00:00"
+    }
+  ]
+}
